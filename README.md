@@ -1,1 +1,1 @@
-# spotify-clone
+# rock-paper-scissors
